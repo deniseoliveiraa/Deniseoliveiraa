@@ -23,4 +23,4 @@ Atualmente estudando Pós-graduação em Data Science & IA e desenvolvendo proje
 </p>
 
 <br/>
-<br/>
+
