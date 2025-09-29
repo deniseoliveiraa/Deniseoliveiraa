@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Denise Oliveira
 
-<!--
-**deniseoliveiraa/Deniseoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados`**
 
-Here are some ideas to get you started:
+Apaixonada por transformar dados em insights.
+Atualmente estudando Pós-graduação em Data Science & IA e desenvolvendo projetos próprios para praticar SQL, modelagem de dados, dashboards e automação de processos..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/database.png" alt="SQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" height="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud" height="40"/>
+  <img src="https://img.icons8.com/color/48/powershell.png" alt="PowerShell" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Excel" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" height="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" height="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" height="40"/>
+</p>
+
+<br/>
+<br/>
